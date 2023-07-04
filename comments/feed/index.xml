@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comentarios en lipsfusa	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 04 Jul 2023 21:03:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Jul 2023 21:33:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
