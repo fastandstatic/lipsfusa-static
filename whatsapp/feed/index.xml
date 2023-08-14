@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>
-	Comentarios en lipsfusa	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	Comentarios en: WhatsApp	</title>
+	<atom:link href="/whatsapp/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 14 Aug 2023 19:40:19 +0000</lastBuildDate>
